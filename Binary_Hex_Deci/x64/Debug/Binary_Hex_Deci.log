@@ -1,0 +1,6 @@
+﻿  Convert.cpp
+C:\Users\guard\OneDrive\Escritorio\c++\Binary_Hex_Deci\Binary_Hex_Deci\Convert.cpp(138,41): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\guard\OneDrive\Escritorio\c++\Binary_Hex_Deci\Binary_Hex_Deci\Convert.cpp(144,35): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\guard\OneDrive\Escritorio\c++\Binary_Hex_Deci\Binary_Hex_Deci\Convert.cpp(147,40): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\guard\OneDrive\Escritorio\c++\Binary_Hex_Deci\Binary_Hex_Deci\Convert.cpp(158,30): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Binary_Hex_Deci.vcxproj -> C:\Users\guard\OneDrive\Escritorio\c++\Binary_Hex_Deci\x64\Debug\Binary_Hex_Deci.exe

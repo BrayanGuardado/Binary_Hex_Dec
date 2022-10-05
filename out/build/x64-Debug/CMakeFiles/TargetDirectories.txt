@@ -1,0 +1,3 @@
+C:/Users/guard/OneDrive/Escritorio/c++/Binary_Hex_Deci/out/build/x64-Debug/CMakeFiles/Binary_Hex_Deci.dir
+C:/Users/guard/OneDrive/Escritorio/c++/Binary_Hex_Deci/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/guard/OneDrive/Escritorio/c++/Binary_Hex_Deci/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
